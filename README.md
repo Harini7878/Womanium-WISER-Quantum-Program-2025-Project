@@ -1,13 +1,12 @@
 # Quantum Walks and Monte Carlo
-Team Name
-[Your Team Name Here]
+## Team Name: [Your Team Name Here]
 
-Team Members & WISE Enrollment IDs
+## Team Members & WISE Enrollment IDs:
 Harini Muthurengan - [Your Enrollment ID]
 
 Manas Ranjan Nayak - [Your Enrollment ID]
 
-Project Summary
+## Project Summary:
 In the era of Noisy Intermediate-Scale Quantum (NISQ) computers, environmental noise and gate imperfections present a significant barrier to reliable quantum computation. This project addresses this challenge by providing a detailed analysis of noise's impact on quantum circuits. We use the PennyLane library to build and simulate various circuits, including a "Quantum Galton Board" as an intuitive analogy for a one-dimensional quantum walk. This framework allows for a clear and quantitative study of computational accuracy under noisy conditions.
 
 Our methodology involves creating three distinct circuits: the Quantum Galton Board, a Hadamard-based Quantum Walk, and an Amplitude Encoding circuit for an exponential distribution. This diversity allows us to explore how different circuit structures react to noise. To simulate real-world conditions, we apply various noise models—specifically, a depolarizing channel, amplitude damping, phase damping, bit flip, and phase flip—after each gate. This gate-level application of noise provides a more realistic representation of imperfections compared to applying noise only at the end of the circuit. We then employ a Monte Carlo simulation, running each noisy circuit thousands of times to generate a statistical sample of the output and form an empirical probability distribution.
@@ -16,6 +15,6 @@ The analysis phase compares the noiseless (ideal) and noisy distributions using 
 
 In conclusion, this project establishes a robust framework for exploring quantum noise and its effects on circuit fidelity. It demonstrates the fragility of NISQ-era computation through the Quantum Galton Board analogy and provides a powerful, quantitative method for assessing this challenge. Our work lays the groundwork for future research into error mitigation techniques, validation on real quantum hardware, and the investigation of more complex, correlated noise models. The project offers valuable insights that are critical for advancing the development of reliable quantum algorithms and hardware.
 
-Project Presentation Deck
+## Project Presentation Deck
 [You can insert a link to your presentation deck here, e.g., a Google Slides link]
 
