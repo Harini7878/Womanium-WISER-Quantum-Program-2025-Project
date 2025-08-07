@@ -1,5 +1,5 @@
 # Quantum Walks and Monte Carlo
-## Team Name: [Your Team Name Here]
+## Team Name:
 
 ## Team Members & WISE Enrollment IDs:
 Harini Muthurengan - [Your Enrollment ID]
@@ -16,5 +16,4 @@ The analysis phase compares the noiseless (ideal) and noisy distributions using 
 In conclusion, this project establishes a robust framework for exploring quantum noise and its effects on circuit fidelity. It demonstrates the fragility of NISQ-era computation through the Quantum Galton Board analogy and provides a powerful, quantitative method for assessing this challenge. Our work lays the groundwork for future research into error mitigation techniques, validation on real quantum hardware, and the investigation of more complex, correlated noise models. The project offers valuable insights that are critical for advancing the development of reliable quantum algorithms and hardware.
 
 ## Project Presentation Deck
-[You can insert a link to your presentation deck here, e.g., a Google Slides link]
 
