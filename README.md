@@ -16,4 +16,5 @@ The analysis phase compares the noiseless (ideal) and noisy distributions using 
 In conclusion, this project establishes a robust framework for exploring quantum noise and its effects on circuit fidelity. It demonstrates the fragility of NISQ era computation through the Quantum Galton Board analogy and provides a powerful, quantitative method for assessing this challenge. Our work lays the groundwork for future research into error mitigation techniques  and the investigation of more complex, correlated noise models. The project offers valuable insights that are critical for advancing the development of reliable quantum algorithms and hardware.
 
 ## Project Presentation Deck
+C:\Users\seeni\Downloads\Quantum Galton Board Implementation Project (2).pptx
 
