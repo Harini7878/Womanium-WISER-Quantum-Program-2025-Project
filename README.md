@@ -1,10 +1,10 @@
 # Quantum Walks and Monte Carlo
-## Team Name:
+## Team Name: 
 
 ## Team Members & WISER Enrollment IDs:
-Harini Muthurengan -
+Harini Muthurengan - gst-cxEmO0rm72cRiyY
 
-Manas Ranjan Nayak - 
+Manas Ranjan Nayak - gst-lFc3TUaRvjndtFy
 
 ## Project Summary:
 In the era of Noisy Intermediate-Scale Quantum (NISQ) computers, environmental noise and gate imperfections present a significant barrier to reliable quantum computation. This project addresses this challenge by providing a detailed analysis of noise's impact on quantum circuits. We use the PennyLane library to build and simulate various circuits, including a "Quantum Galton Board" as an intuitive analogy for a one-dimensional quantum walk. This framework allows for a clear and quantitative study of computational accuracy under noisy conditions.
